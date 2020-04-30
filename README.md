@@ -17,4 +17,7 @@ These are the source code for 01204496(Deep learning for computer engineer) @ Ka
 - extract it in the same directory of the notebook
 - launch jupyter notebook in the same directory
 
+
+## GAN anime facegen.ipynb doesn't work so use the gan.ipynb instead
+
 enjoy to use these codes freely :)
